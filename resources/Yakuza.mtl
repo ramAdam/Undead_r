@@ -1,0 +1,24 @@
+# Blender 4.1.1 MTL File: 'Yakuza.blend'
+# www.blender.org
+
+newmtl yaku_zombie_material
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd /home/z3ro/workspace/blender/zombies/textures/Yakuzombie_.png
+map_Ks Yakuzombie_specular.png
+map_Bump -bm 1.000000 Yakuzombie_normal.png
+
+newmtl yifu
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd Yakuzombie_diffuse.png
+map_Ks Yakuzombie_specular.png
+map_d Yakuzombie_diffuse.png
+map_Bump -bm 1.000000 Yakuzombie_normal.png

@@ -1,0 +1,34 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl yaku_zombie_material
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 0.552786
+Pm 0.500000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd /home/home/app/mixamo-mini/tmp/skins_100e183b-cf4b-4ad4-b155-a20f7172c3e4.fbm/Yakuzombie_.png
+map_Ks textures/Yakuzombie_specular.png
+map_Bump -bm 1.000000 Yakuzombie_normal.png
+
+newmtl yifu
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+Pr 0.552786
+Pm 0.500000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Yakuzombie_diffuse.png
+map_Ks textures/Yakuzombie_specular.png
+map_d Yakuzombie_diffuse.png
+map_Bump -bm 1.000000 Yakuzombie_normal.png
